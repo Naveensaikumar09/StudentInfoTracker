@@ -36,6 +36,12 @@ This is a Simple Student Management System Developed While Learning Django.
 <img src="ss/3.png"/>
 <img src="ss/4.png"/>
 <img src="ss/5.png"/>
+<img src="ss/6.png"/>
+<img src="ss/7.png"/>
+<img src="ss/8.png"/>
+<img src="ss/9.png"/>
+<img src="ss/10.png"/>
+
 
 | Admin| Staff| Student |
 |------|-------|---------|
